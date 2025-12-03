@@ -44,7 +44,7 @@ export const Footer: React.FC = () => {
             <span>LinkedIn</span>
           </div>
           <p className="mt-3 text-xs text-slate-500">
-            © {new Date().getFullYear()} CarePlus Hospital.{" "}
+            © {new Date().getFullYear()} Doctors's Lab & Hospital.{" "}
             {lang === "bn" ? "সকল অধিকার সংরক্ষিত।" : "All rights reserved."}
           </p>
         </div>
